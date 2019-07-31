@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "LeetCode\TwoSum.csproj", "{E6C14F63-1B66-4952-A9EF-22CF9FA0E002}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddTwoNumbers", "AddTwoNumbers\AddTwoNumbers.csproj", "{8665447E-2772-41E0-B630-BD814B949864}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6C14F63-1B66-4952-A9EF-22CF9FA0E002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6C14F63-1B66-4952-A9EF-22CF9FA0E002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6C14F63-1B66-4952-A9EF-22CF9FA0E002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6C14F63-1B66-4952-A9EF-22CF9FA0E002}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8665447E-2772-41E0-B630-BD814B949864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8665447E-2772-41E0-B630-BD814B949864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8665447E-2772-41E0-B630-BD814B949864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8665447E-2772-41E0-B630-BD814B949864}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81C1AAA4-BDD8-4A03-9C17-6D199F7CB265}
+	EndGlobalSection
+EndGlobal
